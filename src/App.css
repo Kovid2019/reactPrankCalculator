@@ -141,7 +141,7 @@ body {
 }
 
 .prank {
-  background: red;
+  background: rgb(0, 255, 42);
   color: white;
   animation: shake 0.5s;
 }
